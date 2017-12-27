@@ -1,0 +1,26 @@
+{
+    "name": "gcp-api-queue",
+    "version": "0.1.0",
+    "description": "No dependencies queue for the Google Cloud Platform ",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/duizendstra/gcp-api-queue.git"
+    },
+    "keywords": [
+        "google",
+        "api",
+        "queue"
+    ],
+    "author": "Jasper Duizendstra <jasper@duizendstra.com> (www.duizendstra.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/duizendstra/gcp-api-queue/issues"
+    },
+    "homepage": "https://github.com/duizendstra/gcp-api-queue#readme"
+}
